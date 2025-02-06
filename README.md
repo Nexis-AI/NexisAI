@@ -246,21 +246,13 @@ optimize_strategy(
 )
 ```
 
-## Community
-
-- [Discord](https://discord.gg/nexisAI)
-- [Twitter](https://x.com/nexisAI_AI)
-- [Telegram](https://t.me/nexisAI)
-- [Forum](https://forum.nexisAI.io)
-- [Blog](https://blog.nexisAI.io)
-
 ## Contributing
 
 We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for details.
 
 ## Security
 
-Please report any security issues to security@nexisAI.io. See our [security policy](SECURITY.md) for details.
+Please report any security issues to security@nexis.foundation. See our [security policy](SECURITY.md) for details.
 
 ## License
 

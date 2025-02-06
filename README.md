@@ -1,17 +1,8 @@
 # nexisAI
 
 <div align="center">
-  <img src="assets/logo.svg" alt="nexisAI Logo" width="200" height="200">
   <h3>Next Generation AI-Driven Strategies, Blockchain-Verified Trust</h3>
   <p>Powered by NexisAI that leverages on-chain datastorage.</p>
-
-  <!-- Add badges -->
-  <p>
-    <a href="https://github.com/nexis-AI/nexisAI/actions"><img src="https://github.com/nexis-AI/nexisAI/workflows/tests/badge.svg" alt="Build Status"></a>
-    <a href="https://pypi.org/project/nexisAI/"><img src="https://img.shields.io/pypi/v/nexisAI.svg" alt="PyPI version"></a>
-    <a href="https://github.com/nexis-AI/nexisAI/blob/main/LICENSE"><img src="https://img.shields.io/github/license/nexisAI/nexisAI.svg" alt="License"></a>
-    <a href="https://nexisAI.readthedocs.io/"><img src="https://readthedocs.org/projects/nexisAI/badge/?version=latest" alt="Documentation Status"></a>
-  </p>
 </div>
 
 ## Overview
